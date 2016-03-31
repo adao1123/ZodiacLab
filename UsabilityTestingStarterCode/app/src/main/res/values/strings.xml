@@ -1,0 +1,56 @@
+<resources>
+  <string name="action_settings">Settings</string>
+
+    <string name="app_name">ZodiacNames</string>
+    <string-array name="signs">
+      <item>Aries</item>
+      <item>Cancer</item>
+      <item>Libra</item>
+      <item>Capricorn</item>
+      <item>Taurus</item>
+      <item>Leo</item>
+      <item>Scorpio</item>
+      <item>Aquarius</item>
+      <item>Gemini</item>
+      <item>Virgo</item>
+      <item>Sagittarius</item>
+      <item>Pisces</item>
+    </string-array>
+    <string name="aries_name">Aries</string>
+    <string name="cancer_name">Cancer</string>
+    <string name="libra_name">Libra</string>
+    <string name="capricorn_name">Capricorn</string>
+    <string name="taurus_name">Taurus</string>
+    <string name="leo_name">Leo</string>
+    <string name="scorpio_name">Scorpio</string>
+    <string name="aquarius_name">Aquarius</string>
+    <string name="gemini_name">Gemini</string>
+    <string name="virgo_name">Virgo</string>
+    <string name="sagittarius_name">Sagittarius</string>
+    <string name="pisces_name">Pisces</string>
+    <string name="aries_date">March 21 to April 19</string>
+    <string name="cancer_date">June 22 - July 22</string>
+    <string name="libra_date">September 23 to October 22</string>
+    <string name="capricorn_date">December 22 to January 19</string>
+    <string name="taurus_date">April 20 to May 20</string>
+    <string name="leo_date">July 23 to August 22</string>
+    <string name="scorpio_date">October 23 to November 21</string>
+    <string name="aquarius_date">January 20 to February 18</string>
+    <string name="gemini_date">May 21 to June 21</string>
+    <string name="virgo_date">August 23 to September 22</string>
+    <string name="sagittarius_date">November 22 to December 21</string>
+    <string name="pisces_date">February 19 to March 20</string>
+    <string name="aries_info">Fire sign; ruled by Mars. \n\n Courageous, energetic, willful, commanding, leading. Often leads when following would be best course of action. \n\n The symbol for this sign is that of a ram for good reason. Aries is full of life and possesses high energy, which makes this sign always looking for a challenge. The typical Aries person is full of vitality, curiosity, and has a heightened sense of justice. They often excel at anything where a bit of competition is involved, whether this is of a cognitive nature or physical. The challenge is the thing. If there is a chance to win, to best someone, to show off abilities, Aries is in it to win it. The Aries person feels most alive when they are in control and leading others. They are often impatient and abrupt with those whom they feel are not their equals and are in a leadership position. Most Aries do not like being told what to do if the person in charge is less talented than they. \n\n Aries is a fire sign which means that they tend to have the characteristics of fire: warm, vital, and bright. They can sometimes be impulsive and have hot tempers. However, they have a deep desire to protect and when they have harmed someone in error they will be the first to make amends. They are optimistic and are not given to depressive interludes (which makes them also intolerant of those that do). \n\n Upside: Highly energetic, and has no problem working long hours on a single project. Often take the initiative experiencing new breakthroughs and discoveries. Aries are thorough, painstaking, and have a knack for precise records and clarity. They live hard, love hard, and play hard. \n\n Downside: Aries have tunnel vision when working on a project which can make them seem selfish. They can become impatient with those who are not similar to themselves temperamentally and intellectually. The dedication to a project can become stubbornness, possessiveness, and can lead to a withdrawn and sullen attitude. Many Aries who do not feel acknowledged for their accomplishments become sarcastic and rude. \n\n Other fire signs include Leo and Sagittarius.</string>
+    <string name="cancer_info">blah blah blah</string>
+    <string name="libra_info">blah blah blah</string>
+    <string name="capricorn_info">blah blah blah</string>
+    <string name="taurus_info">blah blah blah</string>
+    <string name="leo_info">blah blah blah</string>
+    <string name="scorpio_info">blah blah blah</string>
+    <string name="aquarius_info">blah blah blah</string>
+    <string name="gemini_info">blah blah blah</string>
+    <string name="virgo_info">blah blah blah</string>
+    <string name="sagittarius_info">blah blah blah</string>
+    <string name="pisces_info">blah blah blah</string>
+
+</resources>
